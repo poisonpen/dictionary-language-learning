@@ -1,1 +1,1 @@
-A language learning app. Upload terms and meanings.
+a Kotlin class project
