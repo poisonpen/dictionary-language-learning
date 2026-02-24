@@ -1,1 +1,1 @@
-a Kotlin class project
+> Kotlin class project
